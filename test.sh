@@ -1,5 +1,3 @@
 #!/bin/bash
 
-echo "Hello"
-
-echo "Saadia"
+echo "My name is: ${user_name}"
